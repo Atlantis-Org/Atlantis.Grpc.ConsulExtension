@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+    <ItemGroup>
+    <ProjectReference Include="..\Atlantis.Grpc.ConsulExtension\Atlantis.Grpc.ConsulExtension.csproj" />
+    <ProjectReference Include="..\..\grpc\Atlantis.Grpc\Atlantis.Grpc.csproj" />
+    <ProjectReference Include="../../consul/src/Atlantis.Consul/Atlantis.Consul.csproj" />
+  </ItemGroup>
+
+</Project>

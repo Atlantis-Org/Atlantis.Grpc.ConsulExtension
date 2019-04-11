@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Atlantis.Grpc.ConsulExtension\Atlantis.Grpc.ConsulExtension.csproj" />
+    <ProjectReference Include="..\..\grpc\Atlantis.Grpc\Atlantis.Grpc.csproj" />
+    <ProjectReference Include="../../consul/src/Atlantis.Consul/Atlantis.Consul.csproj" />
+    <ProjectReference Include="..\Atlantis.Grpc.ConsulExtension.Simple.Protocol\Atlantis.Grpc.ConsulExtension.Simple.Protocol.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+</Project>

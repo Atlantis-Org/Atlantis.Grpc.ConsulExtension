@@ -1,0 +1,14 @@
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/bin/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.deps.json
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/bin/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.dll
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/bin/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.pdb
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/bin/Release/netstandard2.0/Atlantis.Consul.dll
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/bin/Release/netstandard2.0/Atlantis.Grpc.dll
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/bin/Release/netstandard2.0/Atlantis.Grpc.pdb
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/bin/Release/netstandard2.0/Atlantis.Consul.pdb
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/obj/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.csprojAssemblyReference.cache
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/obj/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.csproj.CoreCompileInputs.cache
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/obj/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.AssemblyInfoInputs.cache
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/obj/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.AssemblyInfo.cs
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/obj/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.csproj.CopyComplete
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/obj/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.dll
+/home/felixwan/Documents/bwkernel/atlantis-org/grpc.consulextension/Atlantis.Grpc.ConsulExtension/obj/Release/netstandard2.0/Atlantis.Grpc.ConsulExtension.pdb
